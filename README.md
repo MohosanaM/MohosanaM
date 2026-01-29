@@ -21,6 +21,7 @@ I am a **Software Engineering student at Zhengzhou University**, passionate abou
 ---
 
 ### 📫 Let's Connect:
+* **LinkedIn:** [Mohosana Maymuna](https://www.linkedin.com/in/mohosanam) 💼
 * **TryHackMe:** [View my progress & badges](https://tryhackme.com/p/MohosanaM) 🛡️
 * **GitHub:** You're already here! Check out my [Study-Quest-App](https://github.com/MohosanaM/Study-Quest-App) 📱
 

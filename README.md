@@ -17,7 +17,11 @@ I am a **Software Engineering student at Zhengzhou University**, passionate abou
 * **Languages:**  Dart, Python,C-programming,Bash Scripting.
 * **Frameworks:** Flutter.
 * **Security Tools:** Nmap, Burp Suite, Metasploit, Linux Terminal.
-
+  
+### 🧠 Problem Solving & Algorithms
+I enjoy challenging my logic through competitive programming and algorithmic puzzles:
+* **Online Judge (UVa):** 50+ Problems Solved (C Programming).
+* **Focus:** Data Structures, Algorithms, and efficient code execution.
 ---
 
 ### 📫 Let's Connect:

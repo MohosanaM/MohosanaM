@@ -1,7 +1,6 @@
 # 👋 Hello, I'm Mohosana! 
 
-I am a **Software Engineering student at Zhengzhou University**, passionate about building secure, user-centric applications and exploring the depths of cybersecurity.
-
+I am a **Software Engineering student at Zhengzhou University**, passionate about building secure, user-centric applications and exploring the depths of cybersecurity.I bridge the gap between Technical Security and Digital Human Rights. My work is guided by a 'Security-by-Design' philosophy, validated by professional certifications from Google and Amnesty International.
 ---
 
 ### 🚀 What I'm Working On
@@ -12,6 +11,10 @@ I am a **Software Engineering student at Zhengzhou University**, passionate abou
 * **Global Rank:** Top 5% on [TryHackMe](https://tryhackme.com/p/MohosanaM).
 * **Certified:** Google Foundations of Cybersecurity & TryHackMe Pre-Security Path.
 * **Skills:** Linux & Windows Fundamentals, Networking (OSI, DNS, HTTP), and Web Exploitation.
+  
+ ### 🎖️ Verified Certifications
+[<img src="https://img.shields.io/badge/Google-Cybersecurity-blue?style=for-the-badge&logo=google">](https://github.com/MohosanaM/Professional-Certifications)
+[<img src="https://img.shields.io/badge/Amnesty-Digital_Security-yellow?style=for-the-badge&logo=amnesty-international">](https://github.com/MohosanaM/Professional-Certifications)
 
 ### 🛠️ Tech Stack
 * **Languages:**  Dart, Python,C-programming,Bash Scripting.

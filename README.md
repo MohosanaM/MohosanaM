@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Mohosana! 
 
-I am a **Software Engineering student at Zhengzhou University**, passionate about building secure, user-centric applications and exploring the depths of cybersecurity.I bridge the gap between Technical Security and Digital Human Rights. My work is guided by a 'Security-by-Design' philosophy, validated by professional certifications from Google and Amnesty International.
+I am a **Software Engineering student at Zhengzhou University**.I bridge the gap between Technical Security and Digital Human Rights. My work is guided by a 'Security-by-Design' philosophy, validated by professional certifications from Google and Amnesty International.
 ---
 
 ### 🚀 What I'm Working On
